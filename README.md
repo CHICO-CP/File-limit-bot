@@ -66,7 +66,7 @@ The bot will respond to file uploads and enforce the file limits accordingly.
 }
 ```
 
-#Developer
+# Developer
 
 **Developer by: @DevPhant0m**
 
