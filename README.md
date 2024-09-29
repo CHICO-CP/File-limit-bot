@@ -52,7 +52,7 @@ The bot will respond to file uploads and enforce the file limits accordingly.
 }
 ```
 
-***users.json:**
+**users.json:**
 ```bash
 {
     "user_id_1": {
