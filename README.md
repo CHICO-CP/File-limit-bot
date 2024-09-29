@@ -41,6 +41,30 @@ python bot.py
 ```
 The bot will respond to file uploads and enforce the file limits accordingly.
 
+# Example JSON Files
+
+**API.json:**
+```bash
+{
+    "token": "YOUR_BOT_TOKEN",
+    "group_id": "GROUP_ID",
+    "exempt_user_id": "USER_ID"
+}
+```
+
+***users.json:**
+```bash
+{
+    "user_id_1": {
+        "sent_files": 2,
+        "remaining_files": 1
+    },
+    "user_id_2": {
+        "sent_files": 1,
+        "remaining_files": 2
+    }
+}
+```
 
 #Developer
 
